@@ -1,1 +1,0 @@
-# Transfur-Outbreak-typh-script
