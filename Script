@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/lol-hub-alt/Private/refs/heads/main/Privatev2"))()
